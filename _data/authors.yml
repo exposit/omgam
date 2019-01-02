@@ -1,0 +1,16 @@
+# Sample Authors
+# Remove file or replace with your own
+
+Tam H:
+  name: Tam H
+  picture: /images/bio-photo-2.jpg
+  discord: "Tam#1531"
+  links:
+    - title: Github
+      url: https://github.com/exposit
+      icon: fab fa-github-square
+
+# Cornelius Fiddlebone:
+#   name: Cornelius Fiddlebone
+#   picture: /images/bio-photo.jpg
+#   twitter: corneliusfiddlebone
