@@ -115,6 +115,9 @@ footer_links:
   - title: GitHub
     url: https://github.com/exposit
     icon: fab fa-github-square
+  - title: Discord
+    url: https://discord.gg/cAZ5Rjy
+    icon: fab fa-discord
   - title: Feed
     url: atom.xml
     icon: fas fa-rss-square

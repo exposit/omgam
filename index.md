@@ -17,7 +17,7 @@ Start whenever. Don't judge yourself; we aren't. Fancy formatting and art are ni
 
 Write a game! This is a personal challenge; you win by doing it to your own satisfaction.
 
-If you also want a link to it included here on the site, upload it somewhere other people can read it, and then submit a link to it using the [form](https://goo.gl/forms/OOCgOKmprRAuVp2s2) or open an issue on the [repo](https://github.com/exposit/omgam).
+If you also want a link to it included here on the site, upload it somewhere other people can read it, and then submit a link to it using the [form](https://goo.gl/forms/OOCgOKmprRAuVp2s2), visit the [discord](https://discord.gg/cAZ5Rjy), or open an issue on the [repo](https://github.com/exposit/omgam).
 
 * Try for at least one page; more is fine, of course, but aim for one page.
 * Games can be under whatever license you prefer, but some form of CC is strongly encouraged.
