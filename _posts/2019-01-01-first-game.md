@@ -5,7 +5,7 @@ categories:
 tags:
   - scary
   - action
-author: Tam H
+author: Luke M
 ---
 
 This is a scary (fake) horror game filled with action.
