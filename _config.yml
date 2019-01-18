@@ -18,8 +18,8 @@ theme: jekyll-theme-so-simple
 locale: en-US
 title: "OMGAM"
 description: "the one micro-rpg game a month challenge"
-baseurl: #"omgam" # the subpath of your site, e.g. "/blog"
-url: #"https://exposit.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl: "/omgam" # the subpath of your site, e.g. "/blog"
+url: "https://exposit.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 logo: # path of site logo, e.g. "/assets/images/logo.png"
 date_format: "%B %-d, %Y"
 read_time: false
@@ -73,6 +73,9 @@ plugins:
   - jekyll-sitemap
   - jekyll-feed
   - jekyll-paginate
+
+# Permalink path
+permalink: /:year/:month/:title:output_ext
 
 # Collections
 collections:
