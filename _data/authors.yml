@@ -20,10 +20,10 @@ Luke M:
       icon: fab fa-github-square
     - title: Twitter
       url: https://twitter.com/mootootwo
-#      icon: fab fa-github-square
+      icon: fab fa-twitter-square
     - title: Blogger
       url: https://ktsink.blogspot.com/
-#      icon: fab fa-github-square  
+      icon: fab fa-blogger
 
 # Cornelius Fiddlebone:
 #   name: Cornelius Fiddlebone

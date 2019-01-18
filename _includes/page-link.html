@@ -1,0 +1,6 @@
+{% assign title = page.title | markdownify | strip_html %}
+{% if page.link %}
+  <h4 id="page-title" class="p-category">Get <a href="{{ page.link }}">{{ title }} <span class="link-arrow">&rarr;</span></a></h4>
+{% else %}
+  <h4 id="page-title" class="p-category">Unavailable</h4>
+{% endif %}
