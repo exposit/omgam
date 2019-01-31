@@ -41,11 +41,13 @@ Laurence Phillips:
   name: Laurence Phillips
   picture: /images/avatars/umIdmmqXc1lTKUoidRcwVPAwfjg11INAUrrAWgtnLkOGF3cG4pBfUVoc7vyjni3q_large_2.jpeg
   discord: "HardyRoach#4061"
-  twitter: HardyRoach
   links:
     - title: Patreon
       url: https://www.patreon.com/HardyRoachGames
       icon: fab fa-patreon
+    - title: Twitter
+      url: https://twitter.com/HardyRoach
+      icon: fab fa-twitter-square
 
 # Cornelius Fiddlebone:
 #   name: Cornelius Fiddlebone
