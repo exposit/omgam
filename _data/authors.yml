@@ -25,6 +25,18 @@ Luke M:
       url: https://ktsink.blogspot.com/
       icon: fab fa-blogger
 
+Jay Iles:
+  name: Jay Iles
+  picture: /images/bio-photo-alt.jpg
+  discord: "Wurzel#4607"
+  links:
+    - title: Patreon
+      url: https://www.patreon.com/Ufopress
+      icon: fab fa-patreon
+    - title: UFO Press
+      url: https://ufopress.co.uk/
+      icon: fab fa-external-link-square
+
 # Cornelius Fiddlebone:
 #   name: Cornelius Fiddlebone
 #   picture: /images/bio-photo.jpg
