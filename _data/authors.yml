@@ -47,6 +47,19 @@ Laurence Phillips:
       url: https://twitter.com/HardyRoach
       icon: fab fa-twitter-square
 
+Adam Hegemier:
+  name: Adam Hegemier
+  picture: /images/bio-photo-2.jpg
+
+Côme Martin:
+  name: Côme Martin
+  picture:
+  discord:
+  links:
+    - title:
+      url:
+      icon: fab fa-github-square
+
 # Cornelius Fiddlebone:
 #   name: Cornelius Fiddlebone
 #   picture: /images/bio-photo.jpg
