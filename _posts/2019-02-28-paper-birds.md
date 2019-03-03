@@ -1,10 +1,10 @@
 ---
 title: "Paper Birds"
 categories:
-  - Print and Play
+  - print and play
   - sci-fi
 tags:
-  - Mecha
+  - mecha
   - sad mech jam
 author: Luke M
 link: https://mootootwo.itch.io/paper-birds
