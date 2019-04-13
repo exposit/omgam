@@ -53,12 +53,11 @@ Adam Hegemier:
 
 Côme Martin:
   name: Côme Martin
-  picture:
-  discord:
+  picture: /images/bio-photo-2.jpg
   links:
-    - title:
-      url:
-      icon: fab fa-github-square
+    - title: drivethrurpg
+      url: https://www.drivethrurpg.com/browse/pub/13769/Cme-Martin
+      icon: fab fa-link-square
 
 # Cornelius Fiddlebone:
 #   name: Cornelius Fiddlebone
