@@ -1,0 +1,15 @@
+---
+title: "dF Cyclical Scenario Generator"
+categories:
+  - scenarios
+tags:
+  - tool
+author: Luke M
+link: https://mootootwo.github.io/rpgees/omgam2019/dFCycles
+---
+
+A tool to randomly generate node based scenarios with circular / cyclical paths between nodes
+
+Inspired by Joris Dormans https://ctrl500.com/tech/handcrafted-feel-dungeon-generation-unexplored-explores-cyclic-dungeon-generation/
+
+Missing guidelines for adding information to nodes and paths.  Rounding this out is left to the user
